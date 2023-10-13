@@ -1,4 +1,4 @@
-'''
+
 age = int(input("ENter your age: "))
 print(f"Your age is: {age}")
 
@@ -10,7 +10,7 @@ elif age<18:
 
 elif age>60:
     print("too old")
-'''
+
 
 Mans = [15, 18, 21, 6, 65, 79, 46, 56,13]
 print("Minimum eligible age is 18")
